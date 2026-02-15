@@ -12,7 +12,7 @@ A modern, responsive personal resume website built with HTML, CSS, and JavaScrip
 - **Fast Loading**: No heavy frameworks, pure vanilla JavaScript
 - **Print-Friendly**: Optimized styles for printing/PDF generation
 - **Expertise Section**: Highlights key areas of competency with icons
-- **Detailed Experience**: Organized subsections for better readability
+- **Detailed Experience**: Organized subsections for better readability 
 
 ## 🚀 Quick Start
 
